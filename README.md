@@ -2,7 +2,7 @@
 
 - Proje, Nevşehir Hacı Bektaş Veli Üniversitesi, İlköğretim Matematik Öğretmenliği bölümü öğrencileri tarafından Bilişim Teknolojileri dersi için hazırlanmıştır.
 - Proje kapsamında ortaokul öğrencilerine matematik derslerinde kullanabilecekleri birer PowerPoint sunumu oluşturulmuştur.
-- Bu GitHub Repository'si, sunumların yapılışı ile ilgili bilgi vermek ve sunumlar arasında köprü oluşturmak amacıyla oluşturulmuştur.
+- Bu GitHub Repository'si, sunumların yapılışı ile ilgili bilgi vermek ve sunumlar arasında köprü oluşturmak amacıyla oluşturulmuştur. Sunumlara "Releases" sekmesinden ulaşılabilir.
 
 ## Sunumlar Hazırlanırken Kullanılan Kaynaklar
 
